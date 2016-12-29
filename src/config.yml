@@ -1,0 +1,4 @@
+Sound-type: "CHICKEN_EGG_POP"
+Messages:
+  message-sender: "&7You have poked, &2{targetplayer}&7!"
+  message-receiver: "&7You have been poked by, &2&n{sender}&r&8!"

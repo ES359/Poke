@@ -1,0 +1,11 @@
+name: Poke
+main: me.ES359.Poke.Poke
+version: 1.0
+description: Simple and fun poke plugin to annoy your friends.
+Authors: ES359
+
+commands:
+  poke:
+    description: Poke a server user!
+  pokeadmin:
+    description: admin command
